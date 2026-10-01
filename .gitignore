@@ -1,0 +1,17 @@
+# Genel
+.DS_Store
+.idea/
+.vscode/
+
+# Backend (Spring Boot)
+**/target/
+**/logs/
+*.jar
+*.war
+
+# Frontend
+**/node_modules/
+**/dist/
+**/.env
+auth-app-postgres-frontend@0.0.0
+tsc	
